@@ -1,0 +1,19 @@
+{
+	marging :0;
+	padding :0;
+}
+body
+{
+    font-family: 'Poppins', sans-serif; 
+	background:#66ffes;
+	font-size:15px;
+}
+.container{
+width:80%
+margin:50px auto;
+}
+.contact-box
+{
+    background:#fff;
+    display:flex;
+}
